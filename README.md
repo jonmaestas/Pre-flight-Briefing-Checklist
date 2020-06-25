@@ -1,2 +1,2 @@
 # Pre-flight-Briefing-Checklist
-This is what I use to mentally pre-flight.
+Inspired by Dave Hestir, this is what I use to perform my pre-flight briefing.
