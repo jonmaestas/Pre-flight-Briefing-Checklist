@@ -1,4 +1,4 @@
-# Pre-flight-Briefing-Checklist
+# Pre-flight Briefing Checklist
 Inspired by Dave Hestir, this is what I use to perform my pre-flight briefing.
 
 ---
@@ -24,7 +24,6 @@ Inspired by Dave Hestir, this is what I use to perform my pre-flight briefing.
  ```
 - Aircraft Performance
   - W&B
-  - Take-off & Landing Distances: 
   - V-Speeds
   
   | V<sub>R</sub> | V<sub>X</sub> | V<sub>Y</sub> | V<sub>A</sub> | V<sub>BG</sub> | V<sub>S</sub> | V<sub>SO</sub> | V<sub>DMMS(1.404)</sub> |
